@@ -38,7 +38,8 @@ Imports:
     TAM (>= 4.2),
     tibble,
     tidyr,
-    tidyselect
+    tidyselect,
+    WrightMap
 Suggests:
     flextable,
     officer (>= 0.6.5),
