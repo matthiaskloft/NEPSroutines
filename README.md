@@ -27,5 +27,5 @@ You can install the development version of NEPSroutines from
 
 ``` r
 # install.packages("remotes")
-remotes::install_github("matthiaskloft/NEPSroutines")
+remotes::install_github("j-welling/NEPSroutines")
 ```
